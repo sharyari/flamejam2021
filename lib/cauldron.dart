@@ -33,7 +33,7 @@ class Cauldron extends SpriteComponent
     }
 
     if (!joystick.delta.isZero()) {
-      double maxSpeed = 200;
+      double maxSpeed = 400;
       _lastDelta = joystick.relativeDelta * maxSpeed * dt;
       position.add(_lastDelta);
       angle = joystick.delta.screenAngle();
