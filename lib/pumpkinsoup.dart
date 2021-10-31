@@ -23,11 +23,6 @@ class GameTime extends TimerComponent with HasGameRef<PumpkinSoup> {
   );
 
   GameTime(Timer timer) : super(timer);
-  @override
-  void onRemove() {
-    super.onRemove();
-    print("ASD");
-  }
 
   @override
   bool get shouldRemove => finished;
@@ -151,7 +146,6 @@ class PumpkinSoup extends FlameGame
 
   void setNewGame() {
     // Remove cauldron, things and timer and add new
-    print(gametime);
     gametime?.finished = true;
     cauldron?.removeFromParent();
     gametime?.removeFromParent();
