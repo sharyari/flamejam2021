@@ -5,6 +5,9 @@ This is an entry to flamejam 2021
 flutter pub get
 flutter run
 
+## Where to play
+[Here](https://sharyari.github.io/flamejam2021/)
+
 ## How to play
 Eat pumpkins, don't eat poison.
 Eating pumpkins with hats makes the joystick controls reverse for 5s. This could be perceived as a "twist".
