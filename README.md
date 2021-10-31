@@ -1,20 +1,28 @@
-# flamejam2021
+# PumpkinSoup game
+This is an entry to flamejam 2021
 
-A new Flutter project.
+## Instructions
+flutter pub get
+flutter run
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## How to play
+Eat pumpkins, don't eat poison.
+Eating pumpkins with hats makes the joystick controls reverse for 5s. This could be perceived as a "twist".
 
 
-# Images
-https://free-game-assets.itch.io/free-rpg-halloween-icons
+## Acknowledgements
+I stole everything I could.
+
+### Images
+Halloween icons:
+[Icons](https://free-game-assets.itch.io/free-rpg-halloween-icons)
+
+Parallax background:
+[Background](https://ansimuz.itch.io/parallax-forest)
+
+### Sound
+Background music by Donnie Ozone
+[Background music](https://freemusicarchive.org/music/Donnie_Ozone) (song name: Return of the Gucci Ghost)
+
+Sound effects by Da'ad, thanks.
+
